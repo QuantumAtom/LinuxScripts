@@ -1,0 +1,8 @@
+network:
+  version: 2
+  renderer: networkd
+  wifis:
+    wlp1s1: 
+      access-point:
+        starbucksWifi:
+        password: !secret P1kePl@ce
